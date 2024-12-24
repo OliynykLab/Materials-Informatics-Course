@@ -1,4 +1,5 @@
 # **Self-Study Course: Introduction to Computational Chemistry and Data Analysis**
+*By Emil I. Jaffal*
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/emiljaffal/Site-Analysis/blob/main/LICENSE)
 ![Python 3.12](https://img.shields.io/badge/python-3.12-blue.svg)
@@ -85,7 +86,9 @@ research without prior exposure. I hope it serves as a valuable resource for any
 
 - Anton Oliynyk
 - [Balaranjan Selvaratnam](https://github.com/balaranjan)
+- [Danila Shiryaev](https://github.com/dshirya)
 - [Emil Jaffal](https://github.com/EmilJaffal)
+
 
 ## How to ask for help
 
