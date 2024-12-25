@@ -36,28 +36,31 @@ This course is structured into modules, each containing the following components
    Suggested answers and explanations to help you reflect on your work.
 
 ## **Course Modules**
-### **Module 1: Getting Started with Computational Tools**
-- Overview of computational chemistry and its applications.  
-- Installing Python.
+### **Module 1: Getting Started**
+- Installing Python and Anaconda.
 - Setting up your Python environment.  
-- Introduction to key libraries: `Pymatgen`, `Numpy`, `Pandas`, and `Matplotlib`.  
 
-### **Module 2: Basics of Crystallography and Structure Analysis**  
+### **Module 2: Introduction to Computational Tools**
+- Overview of computational chemistry and its applications.  
+- Introduction to key libraries: `Pymatgen`, `Numpy`, `Pandas`, and `Matplotlib`.  
+- Best practices
+
+### **Module 3: Basics of Crystallography and Structure Analysis**  
 - Representing crystal structures using `Pymatgen`.  
 - Parsing and visualizing CIF files.  
 - Different softwares.
 - Basic symmetry operations, lattice parameters and jargon.  
 
-### **Module 3: Analyzing Materials Data**  
+### **Module 4: Analyzing Materials Data**  
 - Extracting material properties.  
 - Data cleaning and manipulation with `Pandas`.  
 - Creating meaningful visualizations.  
 
-### **Module 4: Automating Calculations???**  
+### **Module 5: Automating Calculations???**  
 - Setting up batch operations for structure generation.  
 - Automating data extraction and analysis workflows.  
 
-### **Module 5: Capstone Project**  
+### **Module 6: Capstone Project**  
 - Integrate everything you’ve learned to solve a real-world computational chemistry problem.  
 
 ## **Why This Approach Works**  
