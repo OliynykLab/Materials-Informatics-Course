@@ -1,7 +1,7 @@
 # **Self-Study Course: Introduction to Computational Chemistry and Data Analysis**
 ## *By Emil I. Jaffal*
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/emiljaffal/Site-Analysis/blob/main/LICENSE)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/OliynykLab/Materials-Informatics-Course/blob/main/LICENSE)
 ![Python 3.12](https://img.shields.io/badge/python-3.12-blue.svg)
 
 > The current README.md serves as a tutorial and documentation - last update January 20, 2025
