@@ -1,12 +1,16 @@
 # **Self-Study Course: Introduction to Computational Chemistry and Data Analysis**
-*By Emil I. Jaffal*
+## *By Emil I. Jaffal*
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/emiljaffal/Site-Analysis/blob/main/LICENSE)
 ![Python 3.12](https://img.shields.io/badge/python-3.12-blue.svg)
 
-> The current README.md serves as a tutorial and documentation - last update December 24, 2024
+> The current README.md serves as a tutorial and documentation - last update January 20, 2025
 
 Welcome to my self-study course on computational chemistry and data analysis! This repository is designed as an accessible starting point for undergraduate students or early learners interested in applying computational methods to chemical problems. The course emphasizes practical, hands-on learning and is particularly valuable for those who lack prior research experience. It aims to demystify computational tools like [Pymatgen](https://pymatgen.org) and make them approachable for students outside of computer science disciplines.
+
+## Disclaimer
+
+This is a work-in-progress, therefore, expect modules to change either by order or contents.
 
 ## **Who Is This For?**
 - Undergraduate students in chemistry or related fields.  
@@ -81,6 +85,7 @@ Many students find traditional computational chemistry resources intimidating, p
 4. Complete assignments and explore optional challenges for deeper engagement.  
 
 ## **Acknowledgements**
+
 This course was visualized by Dr. Oliynyk to expand computational techniques with an absolute-zero background. 
 The shaping of this course was inspired by my experiences as an undergraduate student navigating computational 
 research without prior exposure. I hope it serves as a valuable resource for anyone eager to dive into this field.
@@ -91,7 +96,6 @@ research without prior exposure. I hope it serves as a valuable resource for any
 - [Balaranjan Selvaratnam](https://github.com/balaranjan)
 - [Danila Shiryaev](https://github.com/dshirya)
 - [Emil Jaffal](https://github.com/EmilJaffal)
-
 
 ## How to ask for help
 
