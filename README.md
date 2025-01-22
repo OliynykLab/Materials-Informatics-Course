@@ -78,7 +78,7 @@ Many students find traditional computational chemistry resources intimidating, p
    ```bash
    $ git clone github.com/OliynykLab/Materials-Informatics-Courses.git
    $ pip install -r requirements.txt
-   $ cd Materials-Informatics-Courses
+   $ cd Materials-Informatics-Course
    ```     
 2. Follow the course modules in order or jump to topics of interest.  
 3. Use the provided examples and demos to experiment and learn interactively.  
@@ -100,4 +100,4 @@ research without prior exposure. I hope it serves as a valuable resource for any
 ## How to ask for help
 
 - If you have any issues or questions, please feel free to reach out or
-  [leave an issue](https://github.com/oliynyklab/Materials-Informatics-Courses/issues).
+  [leave an issue](https://github.com/oliynyklab/Materials-Informatics-Course/issues).
