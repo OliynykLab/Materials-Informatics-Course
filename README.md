@@ -1,4 +1,4 @@
-# **Self-Study Course: Introduction to Computational Chemistry and Data Analysis**
+# **Self-Study Tutorial-Based Course: Introduction to Materials Informatics and Data Analysis**
 ## *By Emil I. Jaffal*
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/OliynykLab/Materials-Informatics-Course/blob/main/LICENSE)
